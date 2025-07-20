@@ -31,6 +31,7 @@ const Register = () => {
   };
 
   return (
+
     <form onSubmit={handleSubmit}>
       <input type="text" name="parent_name" placeholder="Parent Name" onChange={handleChange} />
       <input type="text" name="student_name" placeholder="Student Name" onChange={handleChange} />
