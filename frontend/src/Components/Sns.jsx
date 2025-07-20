@@ -21,7 +21,7 @@ const Sns = () => {
             target="_blank"
             rel="nofollow noopener noreferrer"
           >
-            Twitterで共有する
+            X(Twitterで共有する
           </a>
         </button>
       </div>
